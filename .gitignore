@@ -33,6 +33,7 @@ results/
 
 # Data (large datasets should not be committed)
 data/
+datasets/
 
 # Archives and large files
 *.zip
