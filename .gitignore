@@ -1,0 +1,53 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Logs and results
+logs/
+*.log
+results/
+
+# Data (large datasets should not be committed)
+data/
+
+# Archives and large files
+*.zip
+*.tar.gz
+*.tgz
+
+# Model weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Env files
+.env
+
+# Caches
+.pytest_cache/
+.mypy_cache/
